@@ -1,4 +1,4 @@
-# 3D_Design
+# 3D Design
 
 Hi, my name is Sasha Berthet and I'm an applied physics student. 
 
