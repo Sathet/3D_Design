@@ -10,6 +10,3 @@ I'd like to share some of my work with you here.
 If you have any questions, don't hesitate to contact me. 
 
 See you soon on GitHub ;)
-
-
-![ESRF](Pressure Ruby Luminescence/Images/Image ESRF.jpg)
