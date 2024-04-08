@@ -6,7 +6,7 @@ This project is part of my first internship in 2023 at the ESRF (European Synchr
 
 The ESRF is one of the world's most advanced research centers in the fields of materials science and structural biology. It houses a high-energy particle accelerator that generates intense synchrotron radiation (X-ray due to Bremsstrahlung braking radiation). It differ from Collider such as the CERN in Geneva where 2 particles are accelerated to bump into each other. 
 
-
+![Bremsstrahlung_diagram](https://github.com/Sathet/3D_Design/assets/147035374/30d0bcc9-fba5-40af-8179-80214b4f077f)
 
 *Diagram of Bremsstrahlung X-ray production*
 
