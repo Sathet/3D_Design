@@ -26,7 +26,7 @@ This is a very interesting instrument that uses properties of ruby and a bunch o
 
 To sum up the paragraph above, ruby excited by laser generate visible light, thanks to energy level transitions that produce visible light chromium ions in corundum (Al2O3) give rise to . Which is 
 
-
+'print('Hello world)'
 
 
 
