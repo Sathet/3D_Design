@@ -22,7 +22,8 @@ This is a very interesting instrument that uses properties of ruby and a bunch o
 
 ## Theory
 
->Ruby is chromium-doped corundum (Al2O3). The Cr3+ in corundum's lattice forms an octahedra with surrounding oxygen ions. The octahedral crystal field together with spin-orbital interaction results in different energy levels. Once 3d electrons in Cr3+ are energized by lasers, the excited electrons would go to 4T2 and 2T2 levels. Later they return to 2E levels and the R1, R2 lines come from luminescence from 2E levels to 4A2 ground level.[2] The energy difference of 2E levels are 29 cm−1, corresponding to the splitting of R1, R2 lines at 1.39 nm.
+>Ruby is chromium-doped corundum (Al2O3). The Cr3+ in corundum's lattice forms an octahedra with surrounding oxygen ions. The octahedral crystal field together with spin-orbital interaction results in different energy levels. Once 3d electrons in Cr3+ are energized by lasers, the excited electrons would go to 4T2 and 2T2 levels. Later they return to 2E levels and the R1, R2 lines come from luminescence from 2E levels to 4A2 ground level.[2] The energy difference of 2E levels are 29 cm−1, corresponding to the splitting of R1, R2 lines at 1.39 nm. [Wikipédia](https://en.wikipedia.org/wiki/Ruby_pressure_scale)
+
 
 
 
