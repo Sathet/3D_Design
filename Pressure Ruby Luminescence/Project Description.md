@@ -1,4 +1,4 @@
-# Context
+# European Synchrotron Radiation Facility
 
 This project is part of my first internship in 2023 at the ESRF (European Synchrotron Radiation Facility) a particle accelerator located in Grenoble, France.
 
