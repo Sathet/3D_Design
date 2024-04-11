@@ -14,3 +14,5 @@ The ESRF is one of the world's most advanced research centers in the fields of m
 
 This radiation is utilized by researchers worldwide to study the structure and properties of materials at the atomic and molecular scale. Work conducted at the ESRF has applications in numerous fields including medicine, pharmacology, materials physics, chemistry, and biology, contributing to significant scientific advancements and technological innovations.
 
+# Project context
+
