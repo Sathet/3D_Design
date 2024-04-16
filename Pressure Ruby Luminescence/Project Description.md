@@ -28,7 +28,7 @@ To sum up the paragraph above, when ruby is excited by a laser, the Chromium ion
 
 What interests us here is that the wavelength of the visible light emitted by ruby shifts according to the pressure experienced by the ruby.
 
-<img width="225" alt="Ruby_fluorescence_spectra_at_1atm,_2 23_GPa_and_4_GPa" src="https://github.com/Sathet/3D_Design/assets/147035374/2f76e357-7fa7-4a94-98d2-2d604cc48ff5">
+                        <img width="225" alt="Ruby_fluorescence_spectra_at_1atm,_2 23_GPa_and_4_GPa" src="https://github.com/Sathet/3D_Design/assets/147035374/2f76e357-7fa7-4a94-98d2-2d604cc48ff5">
 
 
 
