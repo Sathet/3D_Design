@@ -60,8 +60,9 @@ Many changes were made between the first version in SolidWorks and the final ass
 
 I can't share the 3D file assembly on internet, this could potentially infringe upon intellectual property or confidentiality agreements.
 
+# Test
 
-
+Assembling the final version of the PRL initiates the testing phase. To accomplish this, the laser aligns with the camera, a process achieved by adjusting the various translating lens mounts (CXY1A) on the laser, camera, and spectrometer input. Once alignment is achieved, the system operates in PRL mode. A Ruby sample positions at the output of the lens, followed by laser excitation. Subsequently, the spectrometer collects the spectrum of Ruby's luminescence.
 
 
 
