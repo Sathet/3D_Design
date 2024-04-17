@@ -54,7 +54,11 @@ The first version of the PRL is an assembly of 60 Thorlabs component.
 
 Many changes were made between the first version in SolidWorks and the final assembly. Note that the final assembly was obtained experimentally. For example, we interchanged the position of the camera and the spectrometer input, added a lens to focus the light coming out of the LED and machined the metal part on which the system rests.
 
+![PRL_VF](https://github.com/Sathet/3D_Design/assets/147035374/b49b665a-4007-4a77-9487-215bf0a17863)
 
+*PRL assembly VF*
+
+I can't share the 3D file assembly on internet, this could potentially infringe upon intellectual property or confidentiality agreements.
 
 
 
