@@ -44,6 +44,11 @@ It is necessary to be able to move quickly from optical visualisation of the sam
 
 With these criteria, we imagine a device with a folding mirror, enabling to switched quickly from microscope to PRL position.
 
+My work on solidworks start here and the idea is to use thorlab 3D model available on their website to design the PRL. This phase of work in SolidWorks is important to ensure that the right parts are purchased in the right quantities and that the PRL is feasible. The difficulty was to keep in mind the optical constraints of the system (focal length of the lenses, transmission/absorption wavelength of the beam splitters/dichroic mirror) while working on its mechanical aspect.
+
+The first version of the PRL is an assembly of 60 Thorlabs component.
+
+
 
 
 
