@@ -38,8 +38,11 @@ Knowing this, we need an instrument (PRL) capable of observing the ruby present 
 
 The Pressure Ruby Luminescence on [ID24 Beamline](https://www.esrf.fr/home/UsersAndScience/Experiments/MEx/ID24.html) is old, and doesn't offer enough flexibility when it comes to measuring pressure. Moreover, it's difficult and time-consuming to align the laser and the camera. Therefor, we could buy a PRL on the market. However, this is very expensive (~€30,000). The aim is to design one ourselves, using Thorlabs parts (a supplier of optical equipment) to save money. As a PRL is mainly an optical system, lenght travel by light aren't a problem. So we can arrange to have certain elements in a certain advantageous position. The beamline are quite full of experimental equipment. The space occupied by a device is a critical factor.
 
+It is necessary to be able to move quickly from optical visualisation of the sample (microscope) to pressure measurement (laser/spectrometer).
 
+#  Design 
 
+With these criteria, we imagine a device with a folding mirror, enabling to switched quickly from microscope to PRL position.
 
 
 
