@@ -64,8 +64,9 @@ I can't share the 3D file assembly on internet, this could potentially infringe 
 
 Assembling the final version of the PRL initiates the testing phase. To accomplish this, the laser aligns with the camera, a process achieved by adjusting the various translating lens mounts (CXY1A). Once alignment is achieved, the system operates in PRL mode. A Ruby sample positions at the output of the lens, followed by laser excitation. Subsequently, the spectrometer collects the spectrum of Ruby's luminescence.
 
-![PRL_dst_microscope](https://github.com/Sathet/3D_Design/assets/147035374/4df26d18-67de-4aff-b1dc-f07287db8c53)
-![PRL_dst_pression](https://github.com/Sathet/3D_Design/assets/147035374/e649a28e-41b9-4655-9238-50720f6ad10c)
+![PRL](https://github.com/Sathet/3D_Design/assets/147035374/76fed14e-fa51-4196-b24c-a734be9dc01f)
+
+*PRL mounted*
 
 
 
