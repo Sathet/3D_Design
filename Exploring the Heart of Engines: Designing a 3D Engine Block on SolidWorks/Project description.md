@@ -1,4 +1,4 @@
-#The Engine
+# The Engine
 
 Engines hold a prominent place in the global technological landscape. Their operation relies on the conversion of one form of energy into mechanical motion, an engineering feat that powers a wide range of industrial, commercial, and domestic applications.
 
@@ -8,11 +8,11 @@ At the heart of their operation lie fundamental principles of physics and mechan
 
 In this dynamic context, computer-aided design tools play an essential role. Software like SolidWorks enables engineers to model, simulate, and optimize these engines with increased precision and efficiency, paving the way for new advancements in the field of mechanical propulsion.
 
-#Project context
+# Project context
 
 In the pursuit of understanding the intricate mechanisms that power our world, I embarked on a personal project aimed at unraveling the secrets of engine functionality. My endeavor led me to dive deep into the realm of engineering and design, culminating in the creation of a crafted 3D engine block using SolidWorks.
 
-#Design
+# Design
 
 I didn't know exactly where to start, so I decided to keep things simple first and then add the engine components brick by brick. To do this, I started by creating the connecting rod-piston-crankshaft assembly to observe a first motion.
 
