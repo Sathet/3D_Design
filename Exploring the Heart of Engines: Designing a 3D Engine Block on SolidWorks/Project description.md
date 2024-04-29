@@ -6,11 +6,9 @@ The diversity of engines is as vast as their applications. From internal combust
 
 At the heart of their operation lie fundamental principles of physics and mechanics. Whether converting chemical energy into rotational motion in the case of internal combustion engines, or transforming electrical energy into mechanical force in the case of electric motors, these devices exploit complex processes to generate useful work.
 
-In this dynamic context, computer-aided design tools play an essential role. Software like SolidWorks enables engineers to model, simulate, and optimize these engines with increased precision and efficiency, paving the way for new advancements in the field of mechanical propulsion.
-
 # Project context
 
-In the pursuit of understanding the intricate mechanisms that power our world, I embarked on a personal project aimed at unraveling the secrets of engine functionality. My endeavor led me to dive deep into the realm of engineering and design, culminating in the creation of a crafted 3D engine block using SolidWorks.
+In my quest to comprehend the complex mechanisms driving our world, I undertook a personal project with the aim of uncovering the mysteries of engine functionality. This endeavor propelled me into the depths of engineering and design, resulting in the meticulous creation of a 3D engine block. Specifically, I focused on a four-cylinder gasoline-fueled internal combustion cycle with an electrical ignition source, crafted using SolidWorks.
 
 # Design
 
