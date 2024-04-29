@@ -11,7 +11,9 @@ At the heart of their operation lie fundamental principles of physics and mechan
 In my quest to comprehend the complex mechanisms driving our world, I undertook a personal project with the aim of uncovering the mysteries of engine functionality. This endeavor propelled me into the depths of engineering and design, resulting in the meticulous creation of a 3D engine block. Specifically, I focused on a four-cylinder gasoline-fueled internal combustion cycle with an electrical ignition source, crafted using SolidWorks.
 
 ![4StrokeEngine_Ortho_3D_Small](https://github.com/Sathet/3D_Design/assets/147035374/48a95fc7-f4a7-4cdb-a9e4-39ef0eac612e)
-*animation showing the four stages of the four-stroke gasoline-fueled internal combustion cycle with electrical ignition source [Wikipédia](https://en.wikipedia.org/wiki/Engine)*
+
+*Animation showing the four stages of the four-stroke gasoline-fueled internal combustion cycle with electrical ignition source (credit : [Wikipédia](https://en.wikipedia.org/wiki/Engine))*
+
 # Design
 
 I didn't know exactly where to start, so I decided to keep things simple first and then add the engine components brick by brick. To do this, I started by creating the connecting rod-piston-crankshaft assembly to observe a first motion.
