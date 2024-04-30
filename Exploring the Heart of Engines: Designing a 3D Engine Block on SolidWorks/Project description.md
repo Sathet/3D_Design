@@ -26,6 +26,7 @@ I was surprised to learn that what we call a connecting rod is actually an assem
 
 ![Connecing rod](https://github.com/Sathet/3D_Design/assets/147035374/7b9fee5b-0d33-48e9-ba93-61afbc5eb300)
 
-https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/Rod%20cap.STL
-https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/Rod%20bearing%20insert.STL
-https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/rod%20bolt.STL
+*[Rod cap](https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/Rod%20cap.STL)
+[Rod bearing insert](https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/Rod%20bearing%20insert.STL)
+[Rod bolt](https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/rod%20bolt.STL)
+[Rod nut](https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/rod%20nut.STL)*
