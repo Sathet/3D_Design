@@ -28,3 +28,4 @@ I was surprised to learn that what we call a connecting rod is actually an assem
 
 https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/Rod%20cap.STL
 https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/Rod%20bearing%20insert.STL
+https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/rod%20bolt.STL
