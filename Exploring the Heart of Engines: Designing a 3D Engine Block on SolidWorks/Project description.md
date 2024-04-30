@@ -20,9 +20,9 @@ I didn't know exactly where to start, so I decided to keep things simple first a
 
 I soon faced a problem: what are the orders of magnitude of all these components? So I did a bit of research. I found that a connecting rod is usually between 15 and 30 cm long. That would be my base. So I started by creating a connecting rod of about 30 cm.
 
+![illustration bielle](https://github.com/Sathet/3D_Design/assets/147035374/248ddafe-7c98-4aa2-81d7-12ac27e2e3b9)
 
-
-*![Connecting Rod](https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/Connecting%20rod.STL)*
+*[Connecting Rod](https://github.com/Sathet/3D_Design/blob/main/Exploring%20the%20Heart%20of%20Engines%3A%20Designing%20a%203D%20Engine%20Block%20on%20SolidWorks/Ressources/Connecting%20rod.STL)*
 
 I was surprised to learn that what we call a connecting rod is actually an assembly of several components, such as the connecting rod, rod bolt, rod cap, rod nut and rod bearing insert. Then I get back to work and desing all this part.
 
