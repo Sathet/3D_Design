@@ -24,4 +24,6 @@ I soon faced a problem: what are the orders of magnitude of all these components
 
 I was surprised to learn that what we call a connecting rod is actually an assembly of several components, such as the connecting rod, rod bolt, rod cap, rod nut and rod bearing insert. Then I get back to work and desing all this part.
 
+![Connecing rod](https://github.com/Sathet/3D_Design/assets/147035374/7b9fee5b-0d33-48e9-ba93-61afbc5eb300)
+
 
